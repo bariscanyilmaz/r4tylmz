@@ -19,7 +19,7 @@ I'm a computer engineering student just for now. I am open to job opportunities.
 - and the modern javascript libraries
 
 
-## Known / Using 🧠
+## Knowns / Using 🧠
 
 <code><a href="#" target="_blank"><img height="50" src="https://seeklogo.com/images/T/T-SQL-logo-BF9E675F45-seeklogo.com.gif"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></a></code>
