@@ -1,13 +1,13 @@
 ### Hi! and welcome to my github. 👋
 
 
-I'm Ahmed, live in Turkey. I'm a computer science student on Selcuk University. 
+I'm Ahmed, live in Turkey. I'm a computer engineering student on Selcuk University. 
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r4tylmz&show_icons=true)
 
 ## Job
 
-I'm a computer science student just for now. I am open to job opportunities.
+I'm a computer engineering student just for now. I am open to job opportunities.
 
 ## I'm currently working on 🔭
 
