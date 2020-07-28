@@ -1,7 +1,7 @@
 ### Hi! and welcome to my github. 👋
 
 
-I'm Ahmed, live in Turkey. I'm a computer engineering student on Selcuk University. 
+I'm Ahmed, live in Turkey. I'm a computer engineering student at Selcuk University. 
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r4tylmz&show_icons=true)
 
